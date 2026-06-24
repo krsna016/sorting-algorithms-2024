@@ -9,19 +9,19 @@ Professional engineering repository configurations deployed inside your GitHub p
 
 ---
 
-## 📝 Overview & Core Description
+## Overview & Core Description
 
 This repository contains the implementation of various sorting algorithms in multiple programming languages like Python and Java. Sorting algorithms are fundamental in computer science and are used to arrange data in a particular order, usually ascending or descending.
 
-## 📋 Table of Contents
+## Table of Contents
 - [About](#about)
 - [List of Algorithms](#list-of-algorithms)
 - [Getting Started](#getting-started)
 
-## 🌟 About
+## About
 This repository provides a collection of popular sorting algorithms implemented in Java. Each algorithm is accompanied by an explanation of how it works, its time and space complexities, and best/worst-case scenarios. These implementations are great for students learning sorting algorithms, interview preparation, or anyone looking to deepen their understanding of algorithm design.
 
-## 🚀 List of Algorithms
+## List of Algorithms
 
 ### 1. **Bubble Sort**
 - **Description**: A simple comparison-based algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
@@ -103,7 +103,7 @@ This repository provides a collection of popular sorting algorithms implemented 
     - Worst: O(n²)
 - **Space Complexity**: O(n + k)
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 To run the algorithms in this repository, you'll need:
@@ -127,7 +127,7 @@ To run the algorithms in this repository, you'll need:
 
 ---
 
-## 🏛️ System Design & Folder Structure
+## System Design & Folder Structure
 ```text
 .github/                  # CI/CD pipelines, Dependabot, and Issue/PR schemas
 .editorconfig             # Unified file formatting configuration
@@ -144,14 +144,14 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 🛠️ Tooling & Tech Stack
+## Tooling & Tech Stack
 - **Primary Environment:** Python runtime.
 - **Workflow Automation:** GitHub Actions CI, Dependabot, and CodeQL.
 - **Standards Checkers:** Git `pre-commit` hook validations.
 
 ---
 
-## ⚙️ Quickstart & Local Setup
+## Quickstart & Local Setup
 1. Clone this repository locally:
    ```bash
    git clone https://github.com/krsna016/sorting-algorithms-2024.git
@@ -164,10 +164,10 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 📋 Security & Responsible Disclosure
+## Security & Responsible Disclosure
 For details on disclosing vulnerabilities or hardcoded secrets, refer directly to our [SECURITY.md](SECURITY.md) guidelines.
 
 ---
 
-## 📜 License
+## License
 This repository is licensed under the permissive **MIT License**. For details, see the [LICENSE](LICENSE) file.
